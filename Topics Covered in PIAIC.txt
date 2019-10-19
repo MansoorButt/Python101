@@ -1,0 +1,16 @@
+-Variables
+-Functions
+-Logic Statements
+-Logic Gates
+-Arithematic Operators and Operation
+-Loops
+-List
+-Dictionary
+-Tuples
+-Data types
+-OOP
+-Recursion
+-lambda function
+-List compression
+
+
